@@ -3,6 +3,8 @@ mysql
 sequalize
 express
 server listen at port 5222 default
+// to run 
+Npm start
 
 
 
