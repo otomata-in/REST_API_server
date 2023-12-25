@@ -2,7 +2,7 @@ Back-end Rest api
 mysql
 sequalize
 express
-server listen at port 3000 default
+server listen at port 5222 default
 
 
 
